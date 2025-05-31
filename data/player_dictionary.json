@@ -1,0 +1,268 @@
+{
+  "8474151": {
+    "fullName": "Ryan McDonagh",
+    "firstName": "Ryan",
+    "lastName": "McDonagh",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8474564": {
+    "fullName": "Steven Stamkos",
+    "firstName": "Steven",
+    "lastName": "Stamkos",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8474568": {
+    "fullName": "Luke Schenn",
+    "firstName": "Luke",
+    "lastName": "Schenn",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8474600": {
+    "fullName": "Roman Josi",
+    "firstName": "Roman",
+    "lastName": "Josi",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8474679": {
+    "fullName": "Gustav Nyquist",
+    "firstName": "Gustav",
+    "lastName": "Nyquist",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8475158": {
+    "fullName": "Ryan O'Reilly",
+    "firstName": "Ryan",
+    "lastName": "O'Reilly",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8475167": {
+    "fullName": "Victor Hedman",
+    "firstName": "Victor",
+    "lastName": "Hedman",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8475177": {
+    "fullName": "Calvin de Haan",
+    "firstName": "Calvin",
+    "lastName": "de Haan",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8475197": {
+    "fullName": "Tyson Barrie",
+    "firstName": "Tyson",
+    "lastName": "Barrie",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8476453": {
+    "fullName": "Nikita Kucherov",
+    "firstName": "Nikita",
+    "lastName": "Kucherov",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8476822": {
+    "fullName": "Luke Glendening",
+    "firstName": "Luke",
+    "lastName": "Glendening",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8476887": {
+    "fullName": "Filip Forsberg",
+    "firstName": "Filip",
+    "lastName": "Forsberg",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8476925": {
+    "fullName": "Colton Sissons",
+    "firstName": "Colton",
+    "lastName": "Sissons",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8477353": {
+    "fullName": "Tyler Motte",
+    "firstName": "Tyler",
+    "lastName": "Motte",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8477424": {
+    "fullName": "Juuse Saros",
+    "firstName": "Juuse",
+    "lastName": "Saros",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8477426": {
+    "fullName": "Nicholas Paul",
+    "firstName": "Nicholas",
+    "lastName": "Paul",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8477839": {
+    "fullName": "Conor Sheary",
+    "firstName": "Conor",
+    "lastName": "Sheary",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8477992": {
+    "fullName": "Jonas Johansson",
+    "firstName": "Jonas",
+    "lastName": "Johansson",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8478010": {
+    "fullName": "Brayden Point",
+    "firstName": "Brayden",
+    "lastName": "Point",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8478178": {
+    "fullName": "Darren Raddysh",
+    "firstName": "Darren",
+    "lastName": "Raddysh",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8478416": {
+    "fullName": "Erik Cernak",
+    "firstName": "Erik",
+    "lastName": "Cernak",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8478438": {
+    "fullName": "Tommy Novak",
+    "firstName": "Tommy",
+    "lastName": "Novak",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8478468": {
+    "fullName": "Jeremy Lauzon",
+    "firstName": "Jeremy",
+    "lastName": "Lauzon",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8478508": {
+    "fullName": "Yakov Trenin",
+    "firstName": "Yakov",
+    "lastName": "Trenin",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8478519": {
+    "fullName": "Anthony Cirelli",
+    "firstName": "Anthony",
+    "lastName": "Cirelli",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8478851": {
+    "fullName": "Alexandre Carrier",
+    "firstName": "Alexandre",
+    "lastName": "Carrier",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8479410": {
+    "fullName": "Mikhail Sergachev",
+    "firstName": "Mikhail",
+    "lastName": "Sergachev",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8479542": {
+    "fullName": "Brandon Hagel",
+    "firstName": "Brandon",
+    "lastName": "Hagel",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8479591": {
+    "fullName": "Michael Eyssimont",
+    "firstName": "Michael",
+    "lastName": "Eyssimont",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8479661": {
+    "fullName": "Tanner Jeannot",
+    "firstName": "Tanner",
+    "lastName": "Jeannot",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8479996": {
+    "fullName": "Cody Glass",
+    "firstName": "Cody",
+    "lastName": "Glass",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8480246": {
+    "fullName": "Nick Perbix",
+    "firstName": "Nick",
+    "lastName": "Perbix",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  },
+  "8480748": {
+    "fullName": "Kiefer Sherwood",
+    "firstName": "Kiefer",
+    "lastName": "Sherwood",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8481577": {
+    "fullName": "Philip Tomasino",
+    "firstName": "Philip",
+    "lastName": "Tomasino",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8481704": {
+    "fullName": "Juuso Parssinen",
+    "firstName": "Juuso",
+    "lastName": "Parssinen",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8482062": {
+    "fullName": "Cole Smith",
+    "firstName": "Cole",
+    "lastName": "Smith",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8482146": {
+    "fullName": "Luke Evangelista",
+    "firstName": "Luke",
+    "lastName": "Evangelista",
+    "team": "NSH",
+    "teamName": "Nashville Predators"
+  },
+  "8484325": {
+    "fullName": "Waltteri Merela",
+    "firstName": "Waltteri",
+    "lastName": "Merela",
+    "team": "TBL",
+    "teamName": "Tampa Bay Lightning"
+  }
+}
